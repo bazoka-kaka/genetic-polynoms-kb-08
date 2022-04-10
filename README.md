@@ -1,8 +1,5 @@
-# GA-for-QAP
-A Genetic Algorithm for solving Quadratic Assignment Problems (QAP)
+# genetic-polynoms-kb-08
 
-# Documentation
-https://medium.com/codex/a-genetic-algorithm-for-solving-quadratic-assignment-problems-qap-43b8eb82d798
-
-# Todo
-Write research paper on crossover function
+- Reyhan Athallah (5205201206)
+- Marcelino Salim (5025201026)
+- Yehezkiel Wiradhika (5205201086)
